@@ -1,0 +1,16 @@
+{
+  "name": "每日消息 Agent",
+  "short_name": "消息Agent",
+  "description": "打开即自动更新的个人每日新闻消息页",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08111f",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
